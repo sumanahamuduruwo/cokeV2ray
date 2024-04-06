@@ -4,7 +4,7 @@
   "env": {
     "UUID": {
       "description": "id，根据实际情况修改 生成网站 https://www.uuidgenerator.net/",
-      "value": "34032f0c-99ba-40dd-95bc-2f861e7664bc"
+      "value": "a4e0bf3e-a141-4f8f-8c78-b5037f5fa6b1"
     },
     "WSPATH": {
       "description": "ws路径，根据实际情况修改",
